@@ -1,3 +1,5 @@
+#pragma once
+
 namespace FFlags {
     inline constexpr uintptr_t FLogAppLifecycleManager = 0x6710668;
     inline constexpr uintptr_t FLogInferredHangTracker = 0x67112a8;
